@@ -1,2 +1,2 @@
-# Dhati-plus Fine-tuned LLMs for Arabic Subjectivity Assessment
+# AraDhati-plus: a dataset for Arabic Subjectivity Assessment
 
