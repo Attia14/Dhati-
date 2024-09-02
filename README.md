@@ -1,2 +1,1 @@
-# Dhati-
-Fine-tuned LLMs for Arabic Subjectivity Assessment
+# Dhati-plus Fine-tuned LLMs for Arabic Subjectivity Assessment
